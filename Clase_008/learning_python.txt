@@ -1,0 +1,9 @@
+En Python podés crear variables para almacenar datos.
+En Python podés usar listas para almacenar múltiples valores en una sola variable.
+En Python podés definir funciones para agrupar bloques de código reutilizables.
+En Python podés trabajar con estructuras condicionales (if, else, elif).
+En Python podés crear bucles (for, while) para repetir bloques de código.
+En Python podés manipular cadenas de texto de diversas maneras.
+En Python podés manejar excepciones usando try, except.
+En Python podés importar módulos externos para usar funcionalidades adicionales.
+En Python podés trabajar con ficheros para leer y escribir datos.
